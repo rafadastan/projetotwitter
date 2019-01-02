@@ -3,16 +3,16 @@
 	class db{
 
 		//host
-		private $host = "localhost";
+		private $host = "ec2-50-16-201-73.compute-1.amazonaws.com";
 
 		//usuario
-		private $usuario = "id5527624_raphael";
+		private $usuario = "vzhtrkthahvtmj";
 		
 		//senha
-		private $senha = "B0s0n@3865Higgs";
+		private $senha = "1b69e85286e565ab56aa03559f9330f380c8f2197ddd6dc3229dc55596278d64";
 
 		//banco de dados
-		private $database = "id5527624_twisteer";
+		private $database = "dbhq5pa7kqare9";
 
 
 		public function conecta_mysql(){
